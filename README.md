@@ -2,7 +2,7 @@
 
 Kriging also known as Gaussian process regression is a geostatistical technique which is used in estimating values of environmental variables at unknown locations by values at known locations. It also provides mean squared error of estimation which is called as Kriging variance. 
 
-### Steps
+## Steps
 
 Create a virtual environment and run command below
 
