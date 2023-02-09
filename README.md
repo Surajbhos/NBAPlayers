@@ -8,5 +8,6 @@ Create a virtual environment and run command below
 
 pip install -r requirements.txt
 
-run framework.py files as
- py framework.py 
+run framework.py file as
+
+py framework.py 
