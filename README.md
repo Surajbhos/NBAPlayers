@@ -6,4 +6,4 @@ Kriging also known as Gaussian process regression is a geostatistical technique 
 
  Create a virtual environment and run command below
 
-  pip install -r requirements.txt
+ pip install -r requirements.txt
