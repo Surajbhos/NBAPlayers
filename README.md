@@ -10,14 +10,17 @@ pip install -r requirements.txt
 
 py framework.py
 
-Ordinary Kriging supports 5 variogram models.
+Ordinary and Universal Kriging supports 5 variogram models which can be put in function as string parameter.
 + gaussian
 + exponential
 + spherical
 + power
 + linear
 
-   
+Universal Kriging has additional parameter drift_terms.
+
+drift_terms argument is given as list of strings.
++ ["regional_linear"]
 
 By running this command project structure i.e 5 folders [input_data, clustered_data, cluster files, krigged_data, merged_data] will be created.
 It will throw error as Missing input file to interpolate data 
