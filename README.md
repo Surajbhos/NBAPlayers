@@ -11,7 +11,7 @@ pip install -r requirements.txt
 py framework.py
 
 Ordinary Kriging supports 5 variogram models.
-  >gaussian
+   gaussian
   
    exponential
    
