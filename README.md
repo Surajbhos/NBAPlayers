@@ -11,11 +11,12 @@ pip install -r requirements.txt
 py framework.py
 
 Ordinary Kriging supports 5 variogram models.
-   gaussian
-  
-   exponential
-   
-   spherical
++ gaussian
++ exponential
++ spherical
++ power
++ linear
+
    
 
 By running this command project structure i.e 5 folders [input_data, clustered_data, cluster files, krigged_data, merged_data] will be created.
